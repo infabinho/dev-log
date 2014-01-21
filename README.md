@@ -2,17 +2,17 @@
 
 The log of a developer's studies.
 
-* ### JavaScript
+**[JavaScript](https://github.com/eoop/dev-log/blob/master/resources/javascript.md)**
 
-* ### AngularJS
+**[AngularJS](https://github.com/eoop/dev-log/blob/master/resources/angularjs.md)**
 
-* ### NodeJS
+**[NodeJS](https://github.com/eoop/dev-log/blob/master/resources/nodejs.md)**
 
-* ### HTML
+**[HTML](https://github.com/eoop/dev-log/blob/master/resources/html.md)**
 
-* ### CSS
+**[CSS](https://github.com/eoop/dev-log/blob/master/resources/css.md)**
 
-* ### Web Design
+**[Web Design](https://github.com/eoop/dev-log/blob/master/resources/web-design.md)**
 
 
 

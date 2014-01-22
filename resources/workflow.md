@@ -1,3 +1,3 @@
 # Workflow
 
-![Worflow](img/worflow.png)
+![Worflow](img/workflow.png)

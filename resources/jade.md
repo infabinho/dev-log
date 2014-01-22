@@ -7,4 +7,3 @@
 * [Jade Repository](https://github.com/visionmedia/jade)
 * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
 * [Html/Jade Converter](http://html2jade.com/)
-* []()

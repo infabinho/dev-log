@@ -1,3 +1,3 @@
 # Stylus
 
-![stylus](stylus.png)
+![stylus](stylus.jpg)

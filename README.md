@@ -8,13 +8,15 @@ The log of a developer's studies.
 
 **[NodeJS](https://github.com/eoop/dev-log/blob/master/resources/nodejs.md)**
 
-** [MongoDB](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
+**[MongoDB](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
 
 **[HTML](https://github.com/eoop/dev-log/blob/master/resources/html.md)**
 
 **[CSS](https://github.com/eoop/dev-log/blob/master/resources/css.md)**
 
 **[Web Design](https://github.com/eoop/dev-log/blob/master/resources/web-design.md)**
+
+**[Miscellaneous](https://github.com/eoop/dev-log/blob/master/resources/miscellaneous.md)**
 
 
 

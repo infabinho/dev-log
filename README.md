@@ -10,6 +10,10 @@ The log of a developer's studies.
 
 **[MongoDB](https://github.com/eoop/dev-log/blob/master/resources/mongodb.md)**
 
+**[Jade](https://github.com/eoop/dev-log/blob/master/resources/jade.md)
+
+**[Stylus](https://github.com/eoop/dev-log/blob/master/resources/stylus.md)
+
 **[HTML](https://github.com/eoop/dev-log/blob/master/resources/html.md)**
 
 **[CSS](https://github.com/eoop/dev-log/blob/master/resources/css.md)**

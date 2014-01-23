@@ -1,5 +1,3 @@
-# Dev Log
-
 ![dev log](resources/img/dev-log.png)
 
 #### The log of a developer's studies.

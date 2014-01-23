@@ -1,5 +1,3 @@
-# Jade
-
 ![Jade](img/jade.jpg)
 
 * [Jade Reference](http://jade-lang.com/reference/)

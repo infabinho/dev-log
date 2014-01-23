@@ -1,6 +1,8 @@
 # Dev Log
 
-The log of a developer's studies.
+![dev log](resources/img/dev-log.png)
+
+#### The log of a developer's studies.
 
 **[JavaScript](https://github.com/eoop/dev-log/blob/master/resources/javascript.md)**
 

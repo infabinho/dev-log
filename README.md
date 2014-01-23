@@ -20,6 +20,8 @@
 
 **[Web Design](https://github.com/eoop/dev-log/blob/master/resources/web-design.md)**
 
+**[Workflow](https://github.com/eoop/dev-log/blob/master/resources/workflow.md)**
+
 **[Miscellaneous](https://github.com/eoop/dev-log/blob/master/resources/miscellaneous.md)**
 
 
